@@ -4,7 +4,12 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning all the details for [AWS Certified Solutions Architect - Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+- 🌱 I’m currently learning:
+  -  Ktor
+  -  Amper
+  -  Reading:
+     - Database internals
+     - Designing Data-Intensive Applications: Edition 2
 
 - 💬 Ask me about anything related to Spring, Java, Kotlin or a complex software solution
 - 📫 How to reach me:
