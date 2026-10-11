@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Vladlen Gladîș: software engineer"/>
+  <img src="assets/v2/header.svg" width="100%" alt="Vladlen Gladîș: software engineer"/>
 </p>
 
 <p align="center">
@@ -10,16 +10,16 @@
 ### ⟡ Things I build
 
 <p align="center">
-  <a href="https://pixelarrow.app"><img src="assets/pixelarrow.svg" width="49%" alt="Pixelarrow"/></a>
-  <a href="https://github.com/gvart/parleyroom"><img src="assets/parleyroom.svg" width="49%" alt="Parleyroom"/></a>
+  <a href="https://pixelarrow.app"><img src="assets/v2/pixelarrow.svg" width="49%" alt="Pixelarrow"/></a>
+  <a href="https://github.com/gvart/parleyroom"><img src="assets/v2/parleyroom.svg" width="49%" alt="Parleyroom"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/enact-framework/enact"><img src="assets/enact.svg" width="49%" alt="Enact"/></a>
-  <a href="https://proschi.app"><img src="assets/proschi.svg" width="49%" alt="Proschi"/></a>
+  <a href="https://enact-framework.github.io/enact/"><img src="assets/v2/enact.svg" width="49%" alt="Enact"/></a>
+  <a href="https://proschi.app"><img src="assets/v2/proschi.svg" width="49%" alt="Proschi"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/gvart/claude-config"><img src="assets/claude-config.svg" width="49%" alt="claude-config"/></a>
-  <a href="https://gvart.dev"><img src="assets/blog.svg" width="49%" alt="gvart.dev"/></a>
+  <a href="https://github.com/gvart/claude-config"><img src="assets/v2/claude-config.svg" width="49%" alt="claude-config"/></a>
+  <a href="https://gvart.dev"><img src="assets/v2/blog.svg" width="49%" alt="gvart.dev"/></a>
 </p>
 
 ### ⟡ Stack

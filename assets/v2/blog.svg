@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180">
-<style>#bd{stroke-dasharray:120 1100;animation:run 5s linear infinite;animation-delay:-4.4s}
+<style>#bd{stroke-dasharray:120 1100;animation:run 5s linear infinite;animation-delay:-5.5s}
 @keyframes run{to{stroke-dashoffset:-1220}} #lv{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.2}}</style>
 <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#e879f9"/></linearGradient></defs>
 <rect x="1" y="1" width="428" height="178" rx="12" fill="#070b14" stroke="#1e293b" stroke-width="2"/>
