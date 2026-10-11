@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="180" viewBox="0 0 430 180">
+<style>#bd{stroke-dasharray:120 1100;animation:run 5s linear infinite;animation-delay:-3.3000000000000003s}
+@keyframes run{to{stroke-dashoffset:-1220}} #lv{animation:p 1.6s ease-in-out infinite}@keyframes p{50%{opacity:.2}}</style>
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#e879f9"/></linearGradient></defs>
+<rect x="1" y="1" width="428" height="178" rx="12" fill="#070b14" stroke="#1e293b" stroke-width="2"/>
+<rect id="bd" x="1" y="1" width="428" height="178" rx="12" fill="none" stroke="url(#g)" stroke-width="2"/>
+<text x="24" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#e879f9" letter-spacing="2">[AI TOOLING]</text>
+
+<text x="24" y="64" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="22" font-weight="700" fill="#e2e8f0">claude-config<tspan fill="#22d3ee">_</tspan></text>
+<text x="24" y="92" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#cbd5e1">My Claude Code setup: agent-monitor pane,</text><text x="24" y="114" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#cbd5e1">custom skills, agents, one-command install.</text>
+<line x1="24" y1="138" x2="406" y2="138" stroke="#1e293b"/>
+<text x="24" y="160" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#67e8f9">Claude Code · Plugins · Skills</text>
+</svg>
